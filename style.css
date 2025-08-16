@@ -256,3 +256,8 @@ h1 {
         transform: translateY(-15%);
     }
 }
+
+.caixa-textos-projetos {
+    text-decoration: none; /* remove sublinhado */
+    color: inherit; /* mantém a cor do texto */
+}
